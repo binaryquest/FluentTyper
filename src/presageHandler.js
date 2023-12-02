@@ -5,6 +5,8 @@ import {
 
 import { DATE_TIME_VARIABLES } from "./variables.js";
 
+import { predictWithProbability } from "./bigramFrequenciesNew.js";
+
 const Spacing = Object.freeze({
   INSERT_SPACE: Symbol("INSERT_SPACE"),
   REMOVE_SPACE: Symbol("REMOVE_SPACE"),
@@ -543,9 +545,11 @@ class PresageHandler {
       return this.lastPrediction[lang].predictions.slice();
     }
 
+    let predictionsMy = predictWithProbability(predictionInput);
+
     // Perform prediction
     this.libPresageCallback[lang].pastStream = predictionInput;
-    const predictions = [];
+    let predictions = [];
     const predictionsNative = this.libPresage[lang].predictWithProbability();
 
     const expandedTemplateVariables = this.getExpandedVariables(lang);
@@ -567,14 +571,16 @@ class PresageHandler {
       //result.probability
     }
 
+    
+    
     // Update the last prediction with the current input and results
     this.lastPrediction[lang] = {
       pastStream: predictionInput,
-      predictions: predictions.slice(),
+      predictions: [...new Set([...predictionsMy, ...predictions.splice(0,5)])]
     };
 
     // Return the predicted results
-    return predictions;
+    return [...new Set([...predictionsMy, ...predictions.splice(0,5)])];
   }
 
   /**

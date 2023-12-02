@@ -106,7 +106,7 @@ BUILD_CMD=""
 for dir_path in ${SCRIPT_DIR}/../resources_js/*/ ;
 do
     dir=$(basename $dir_path)
-    python3 /opt/homebrew/Cellar/emscripten/3.1.46/libexec/tools/file_packager.py "${dir}".data --preload "${SCRIPT_DIR}"/../resources_js/"${dir}"@/resources_js/"${dir}" --js-output="${dir}".js
+    python3 /opt/homebrew/Cellar/emscripten/3.1.50/libexec/tools/file_packager.py "${dir}".data --preload "${SCRIPT_DIR}"/../resources_js/"${dir}"@/resources_js/"${dir}" --js-output="${dir}".js
     BUILD_CMD="${BUILD_CMD} --pre-js ${dir}.js"
     cp "${dir}".data "${SCRIPT_DIR}"/../src/third_party/libpresage/
 done

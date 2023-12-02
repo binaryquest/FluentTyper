@@ -1,0 +1,3559 @@
+1 is	192472
+1 normal	138376
+1 in	130136
+1 of	116158
+1 no	83992
+1 cm	81559
+1 size	64652
+1 the	63974
+1 with	63438
+1 seen	59609
+1 about	51231
+1 x	50579
+1 and	48679
+1 not	41773
+1 within	41123
+1 dilated	40717
+1 or	39760
+1 are	38627
+1 measures	35263
+1 bladder	34200
+1 kidney	30647
+1 mm	30248
+1 right	30185
+1 at	29925
+1 both	29580
+1 left	29530
+1 there	28894
+1 kidneys	28500
+1 well	28132
+1 stone	26457
+1 either	23743
+1 lesion	23042
+1 fluid	22676
+1 echopattern	22008
+1 thickness	21740
+1 hepatic	21689
+1 wall	21452
+1 biliary	20769
+1 liver	20508
+1 mass	20092
+1 uterus	19535
+1 ovary	15989
+1 to	15555
+1 position	15142
+1 collection	15037
+1 any	15024
+1 duct	14798
+1 comment	14649
+1 focal	14299
+1 pancreas	13925
+1 echotexture	13632
+1 filled	13415
+1 enlarged	13314
+1 foetal	13310
+1 defined	13094
+1 u	13039
+1 shape	12559
+1 pole	12328
+1 appears	11974
+1 findings	11649
+1 side	11577
+1 be	11372
+1 intra	10706
+1 cortex	10666
+1 medulla	10659
+1 a	10500
+1 spleen	10459
+1 parenchymal	10102
+1 tissue	9991
+1 length	9899
+1 urinary	9871
+1 soft	9609
+1 gall	9426
+1 measuring	9422
+1 limit	9170
+1 calculus	8945
+1 vein	8802
+1 abdomen	8637
+1 pancreatic	8614
+1 common	8549
+1 from	8445
+1 portal	8441
+1 pelvicalyceal	8424
+1 upper	8375
+1 mildly	8354
+1 inner	8253
+1 volume	8101
+1 adnexa	8068
+1 lower	7977
+1 contour	7867
+1 it	7551
+1 parenchyma	7550
+1 appear	7449
+1 suggestive	7434
+1 on	7416
+1 one	7348
+1 tree	7286
+1 homogeneous	7136
+1 lumen	7101
+1 multiple	6997
+1 dilatation	6969
+1 prostate	6843
+1 mild	6827
+1 could	6785
+1 diameter	6768
+1 containing	6695
+1 anteverted	6621
+1 sac	6616
+1 ascitic	6556
+1 uniform	6521
+1 pouch	6229
+1 myometrium	6211
+1 douglas	6205
+1 fatty	6133
+1 present	6107
+1 bipolar	6060
+1 pleural	6051
+1 trees	5962
+1 cystic	5923
+1 bile	5918
+1 space	5833
+1 echogenic	5761
+1 evidence	5718
+1 it's	5475
+1 change	5457
+1 outline	5373
+1 detected	5358
+1 echogenicity	5285
+1 intravesical	5161
+1 which	5054
+1 structure	5034
+1 weeks	5006
+1 region	4919
+1 cavity	4904
+1 mid	4883
+1 cm3	4882
+1 ovaries	4391
+1 ovarian	4323
+1 system	4272
+1 small	4249
+1 regions	4217
+1 slightly	4135
+1 hypoechoic	4106
+1 systems	4074
+1 without	4013
+1 bulky	3932
+1 being	3924
+1 sludge	3868
+1 breast	3863
+1 area	3851
+1 pregnancy	3838
+1 cc	3822
+1 tubo	3786
+1 placental	3769
+1 days	3735
+1 cul-de-sac	3726
+1 bright	3717
+1 endometrial	3672
+1 suggesting	3562
+1 tiny	3546
+1 shows	3537
+1 cyst	3530
+1 heart	3521
+1 venous	3342
+1 central	3337
+1 spleno-portal	3324
+1 gestational	3293
+1 part	3217
+1 hepatomegaly	3170
+1 uterine	3167
+1 anterior	3091
+1 thickening	3042
+1 gallbladder	3036
+1 largest	3032
+1 demonstrable	3014
+1 cul	3005
+1 de	3004
+1 endometrium	2990
+1 differentiation	2962
+1 study	2925
+1 movement	2828
+1 adv	2822
+1 amniotic	2805
+1 ducts	2798
+1 increased	2791
+1 head	2786
+1 lymph	2754
+1 internal	2729
+1 comments	2704
+1 main	2702
+1 homogeneously	2662
+1 grade-i	2655
+1 plane	2644
+1 radicals	2628
+1 empty	2607
+1 cortico-medullary	2596
+1 another	2574
+1 abnormal	2541
+1 however	2526
+1 bilateral	2507
+1 that	2506
+1 foetus	2493
+1 follicles	2460
+1 lobe	2446
+1 homogenous	2437
+1 vessels	2434
+1 p	2431
+1 cord	2430
+1 ml	2404
+1 gm	2342
+1 calyceal	2336
+1 umbilical	2294
+1 clear	2273
+1 maximum	2266
+1 amount	2239
+1 acoustic	2199
+1 placenta	2195
+1 its	2146
+1 cervix	2132
+1 conception	2131
+1 diffuse	2125
+1 product	2110
+1 by	2105
+1 single	2103
+1 echo	2082
+1 posterior	2082
+1 different	2066
+1 g	2066
+1 casting	2038
+1 larger	2025
+1 noted	2000
+1 sonographic	1991
+1 aspect	1985
+1 nodular	1981
+1 testis	1979
+1 cardiac	1949
+1 abdominal	1941
+1 low	1879
+1 thickened	1853
+1 abnormality	1849
+1 bigger	1844
+1 o	1838
+1 for	1741
+1 min	1662
+1 beat	1661
+1 visualised	1652
+1 rate	1640
+1 fetal	1627
+1 urine	1609
+1 residual	1590
+1 spine	1589
+1 period	1587
+1 pelvis	1585
+1 away	1538
+1 but	1532
+1 postvoidal	1522
+1 faint	1520
+1 adnexal	1519
+1 probe	1511
+1 node	1504
+1 correspond	1480
+1 gland	1479
+1 cerebral	1471
+1 please	1469
+1 high	1465
+1 frequency	1458
+1 examined	1455
+1 renal	1455
+1 lying	1415
+1 few	1398
+1 thick	1397
+1 presentation	1393
+1 axillary	1378
+1 flow	1374
+1 thyroid	1347
+1 channels	1346
+1 infiltration	1336
+1 vascular	1332
+1 case	1328
+1 visualisation	1327
+1 compatible	1327
+1 diaphragm-which	1323
+1 biparietal	1321
+1 grading	1316
+1 portion	1313
+1 upto	1300
+1 lesions	1295
+1 femoral	1293
+1 age	1285
+1 outer	1271
+1 cysts	1268
+1 long	1267
+1 circumference	1263
+1 nodes	1259
+1 os	1253
+1 structures	1243
+1 retro	1242
+1 large	1219
+1 gravid	1217
+1 testes	1215
+1 sizes	1210
+1 regular	1208
+1 appearance	1201
+1 smooth	1198
+1 visible	1191
+1 i	1188
+1 walls	1143
+1 h	1141
+1 pelvi-calyceal	1137
+1 measurements	1136
+1 all	1130
+1 intact	1116
+1 fairly	1114
+1 adequate	1110
+1 luminal	1091
+1 neck	1085
+1 axilla	1079
+1 biometry	1078
+1 grade-ii	1065
+1 remarkable	1061
+1 rest	1046
+1 cortical	1044
+1 anomaly	1035
+1 parametrium	1027
+1 mhz	1027
+1 index	1027
+1 cephalic	1025
+1 shadow	1010
+1 significant	997
+1 anatomy	978
+1 contracted	973
+1 cystitis	973
+1 having	967
+1 two	963
+1 four	963
+1 prominent	955
+1 insertion	951
+1 mixed	936
+1 day	930
+1 correlate	922
+1 active	921
+1 chain	915
+1 viable	913
+1 transverse	882
+1 smaller	881
+1 parts	857
+1 echodensity	842
+1 ventricles	834
+1 also	833
+1 changes	832
+1 cervical	821
+1 irregular	805
+1 isthmus	796
+1 grade-l	795
+1 rt	788
+1 after	788
+1 hemispheres	784
+1 out	775
+1 shadows	775
+1 possibility	772
+1 separation	754
+1 growth	746
+1 hemi	745
+1 atrophied	744
+1 partly	740
+1 brain	734
+1 epididymis	731
+1 line	730
+1 early	729
+1 other	728
+1 defect	723
+1 skin	723
+1 ruled	721
+1 see	717
+1 cholecystectomy	712
+1 vascularity	708
+1 scan	702
+1 location	696
+1 due	691
+1 shift	685
+1 lt	677
+1 grade	673
+1 pap's	671
+1 smear	671
+1 cervicitis	665
+1 cholesterol	664
+1 follow	659
+1 cholelithiasis	651
+1 peripheral	650
+1 areas	650
+1 spinal	646
+1 fundal	640
+1 calcification	636
+1 septa	636
+1 post	634
+1 chambers	632
+1 nipple	626
+1 retroverted	626
+1 vericocele	621
+1 antero	617
+1 b	615
+1 margin	613
+1 grossly	609
+1 subserous	600
+1 inferior	594
+1 segment	594
+1 sec	593
+1 definite	592
+1 according	592
+1 distribution	591
+1 inhomogeneous	580
+1 simple	577
+1 retracted	577
+1 scrotum	577
+1 sub	575
+1 pulsation	569
+1 surface	564
+1 lateral	564
+1 doppler	563
+1 moderate	562
+1 vaginalis	562
+1 may	550
+1 chromosomal	547
+1 medial	546
+1 previous	545
+1 tunica	545
+1 inguinal	540
+1 corresponding	536
+1 pelvic	536
+1 dilation	536
+1 m	528
+1 live	527
+1 extremities	523
+1 fibroid	521
+1 fetus	518
+1 hemisphere	511
+1 hilar	510
+1 para	509
+1 predominantly	508
+1 hysterectomy	505
+1 tone	500
+1 score	500
+1 gestation	499
+1 breech	493
+1 extended	488
+1 beyond	482
+1 menopausal	474
+1 her	473
+1 hormonal	463
+1 level	462
+1 muscle	462
+1 superior	462
+1 organised	461
+1 activity	459
+1 liquor	458
+1 t	457
+1 obvious	454
+1 clinical	450
+1 partially	445
+1 ve	438
+1 biophysical	436
+1 bowel	434
+1 quadrants	433
+1 comparison	431
+1 ascites	426
+1 fossa	426
+1 evaluation	424
+1 yolk	422
+1 showing	421
+1 nephrolithiasis	420
+1 postero	419
+1 near	417
+1 ultrasound	417
+1 hydronephrosis	415
+1 iliac	413
+1 follicle	412
+1 body	411
+1 enhancement	410
+1 lab	407
+1 chest	398
+1 moderately	397
+1 corresponds	395
+1 embryonic	391
+1 gross	388
+1 matrix	386
+1 artery	383
+1 weight	383
+1 effect	378
+1 chronic	378
+1 anatomical	377
+1 approximately	373
+1 calyces	372
+1 sparing	369
+1 splenomegaly	368
+1 fat	368
+1 subcuteneous	367
+1 fundus	359
+1 calculated	355
+1 limbs	353
+1 quadrant	352
+1 clinched	350
+1 fist	350
+1 ureter	349
+1 insufficiency	348
+1 cortices	345
+1 approx	345
+1 appendicular	344
+1 subcutaneous	343
+1 range	332
+1 free	330
+1 inflammatory	330
+1 ill	327
+1 stomach	326
+1 loss	325
+1 apparently	318
+1 up	317
+1 specific	316
+1 intracranial	315
+1 ventriculo-megaly	314
+1 skeletal	314
+1 areola	314
+1 curve	312
+1 vessel	310
+1 plexus	309
+1 muscles	308
+1 solid	307
+1 chambered	306
+1 description	305
+1 apparent	305
+1 pampiniform	304
+1 faecal	304
+1 layer	302
+1 congenital	299
+1 does	298
+1 breathing	293
+1 each	292
+1 scrotal	292
+1 huge	291
+1 exophytic	289
+1 visualized	288
+1 done	287
+1 compensatory	287
+1 effusion	283
+1 supine	283
+1 during	282
+1 as	281
+1 calculi	281
+1 hernia	281
+1 valsalva	279
+1 between	276
+1 increase	275
+1 nuchal	275
+1 lobes	274
+1 billary	274
+1 poor	273
+1 complex	272
+1 described	268
+1 inside	263
+1 clock	262
+1 situs	262
+1 equal	254
+1 examination	253
+1 axis	252
+1 symmetrical	251
+1 breasts	250
+1 prostatic	249
+1 moment	248
+1 follicular	246
+1 follow-up	242
+1 lymphadenopathy	241
+1 proper	240
+1 gases	239
+1 degenerative	237
+1 epidydimis	232
+1 profile	231
+1 fold	230
+1 evacuation	229
+1 distended	229
+1 calcifications	228
+1 endometriotic	228
+1 minor	225
+1 heterogeneous	225
+1 sign	220
+1 septation	219
+1 exclude	219
+1 polycystic	217
+1 an	216
+1 maturity	216
+1 epididymal	210
+1 haemorrhagic	209
+1 coarse	209
+1 intestinal	208
+1 mandibular	208
+1 closer	207
+1 colour	207
+1 parotid	204
+1 embryo	201
+1 alive	200
+1 contents	199
+1 reflex	196
+1 cough	195
+1 further	194
+1 physiological	193
+1 almost	192
+1 total	192
+1 glands	191
+1 movements	190
+1 thyromegaly	187
+1 related	187
+1 separately	184
+1 specially	183
+1 pericardial	183
+1 always	179
+1 sides	179
+1 median	177
+1 fibroids	177
+1 ectasia	177
+1 underlying	177
+1 polyp	176
+1 obstruction	173
+1 pocket	171
+1 well-defined	170
+1 gut	169
+1 deepest	167
+1 pattern	167
+1 ductules	166
+1 cycle	164
+1 matters	162
+1 nodule	160
+1 adenomyosis	160
+1 arising	160
+1 before	160
+1 periportal	159
+1 so	156
+1 center	156
+1 ductal	155
+1 otherwise	155
+1 proximal	154
+1 insignificant	154
+1 except	153
+1 around	150
+1 medullary	149
+1 oval	149
+1 this	148
+1 reducible	147
+1 shaped	146
+1 component	145
+1 ratio	145
+1 chamber	145
+1 diaphragmatic	144
+1 very	144
+1 face	144
+1 loaded	143
+1 scoring	143
+1 tenderness	142
+1 might	141
+1 peritoneal	140
+1 ureteric	140
+1 thinning	139
+1 their	137
+1 cardiothoracic	137
+1 procedure	136
+1 solitus	136
+1 rhythm	136
+1 view	136
+1 found	136
+1 incomplete	134
+1 obesity	134
+1 fibrocystic	134
+1 gas	134
+1 auricular	134
+1 nabothian	133
+1 nil	132
+1 encircling	130
+1 maturing	128
+1 open	128
+1 outflow	128
+1 myometrial	128
+1 reduces	128
+1 atriums	127
+1 contract	127
+1 ovale	127
+1 flap	127
+1 equally	126
+1 foramen	126
+1 tracts	126
+1 s	125
+1 broad	125
+1 c	124
+1 measurers	123
+1 irreducible	121
+1 extreme	120
+1 corpus	120
+1 bones	120
+1 least	120
+1 highly	119
+1 continuous	117
+1 nebothian	117
+1 pre	117
+1 only	116
+1 widened	116
+1 method	116
+1 feet	115
+1 appeared	115
+1 ectopic	115
+1 reverse	114
+1 f	114
+1 debri	114
+1 completely	113
+1 variable	113
+1 areolar	112
+1 biphasic	112
+1 lie	112
+1 still	111
+1 orbit	111
+1 junction	111
+1 mobility	111
+1 lips	110
+1 nostril	110
+1 ear	110
+1 lens	110
+1 blood	110
+1 calyectasis	110
+1 abscess	108
+1 invasion	108
+1 pyloric	107
+1 feto	107
+1 bowels	107
+1 appendix	106
+1 echoes	105
+1 inguino	104
+1 loops	104
+1 canal	103
+1 now	103
+1 urethral	103
+1 thin	103
+1 spontaneously	102
+1 mapping	101
+1 advice	101
+1 retained	101
+1 aggravated	101
+1 hernial	100
+1 septed	99
+1 dominant	99
+1 abortion	98
+1 urethra	98
+1 joint	98
+1 middle	97
+1 correlation	97
+1 inflammation	97
+1 better	96
+1 lipoma	96
+1 along	94
+1 fibroadenoma	94
+1 excessive	94
+1 vol	92
+1 details	92
+1 mental	92
+1 splenic	91
+1 aortic	91
+1 possibly	91
+1 resistance	91
+1 hydronephro-ureterosis	91
+1 lactiferous	91
+1 more	90
+1 extra	90
+1 cortico	90
+1 epididymitis	89
+1 hydrocele	89
+1 surgical	89
+1 markedly	89
+1 vault	89
+1 vagina	89
+1 unstable	89
+1 reveals	88
+1 obscuring	88
+1 through	87
+1 excluding	87
+1 mammary	87
+1 like	86
+1 clearly	85
+1 epididymo-orchitis	85
+1 haematoma	85
+1 valve	85
+1 calyx	84
+1 swollen	84
+1 septations	84
+1 nature	83
+1 sided	83
+1 crystals	82
+1 stopping	82
+1 obstructive	82
+1 impacted	81
+1 minimal	81
+1 solitary	80
+1 uropathy	80
+1 appearing	79
+1 o'clock	79
+1 progress	79
+1 disease	78
+1 terminal	78
+1 missed	77
+1 porta	77
+1 mother	77
+1 extending	77
+1 fibroadenomyosis	77
+1 whole	77
+1 suspected	76
+1 superimposed	76
+1 circulation	76
+1 mobile	75
+1 lactating	75
+1 myoma	74
+1 inhomogenous	74
+1 acute	73
+1 forming	72
+1 minimally	72
+1 marked	72
+1 echopatteren	72
+1 unremarkable	72
+1 linear	71
+1 consistent	71
+1 maintained	71
+1 decidual	71
+1 incision	71
+1 encysted	70
+1 reaction	70
+1 table	70
+1 nephropathy	69
+1 status	69
+1 cytology	68
+1 peri	68
+1 benign	67
+1 ventricular	67
+1 relatively	67
+1 cuteneous	67
+1 vesico	66
+1 downwards	66
+1 three	65
+1 spaces	65
+1 supra	65
+1 final	65
+1 pressure	65
+1 submental	64
+1 diaphragm	64
+1 asymmetric	64
+1 fibro	64
+1 glandular	64
+1 growing	63
+1 measured	62
+1 if	62
+1 them	62
+1 knee	62
+1 twin	61
+1 haemangioma	61
+1 resulting	61
+1 r	61
+1 poorly	61
+1 cholecystitis	60
+1 involving	59
+1 adjacent	59
+1 n	59
+1 absent	58
+1 decreased	58
+1 penile	58
+1 anomalies	58
+1 lymphnode	58
+1 polyps	58
+1 hepatosplenomegaly	58
+1 chorionic	57
+1 curvilinear	57
+1 arachnoid	56
+1 leuteal	56
+1 less	56
+1 shaft	55
+1 hypertrophy	55
+1 partial	55
+1 maternal	55
+1 base	54
+1 subcentimetric	54
+1 presence	54
+1 intake	53
+1 cerebellar	53
+1 episode	53
+1 localization	53
+1 cannot	53
+1 plain	52
+1 ii	52
+1 foetuses	52
+1 degree	52
+1 just	52
+1 minimum	52
+1 scar	52
+1 elongated	52
+1 coming	52
+1 distance	52
+1 x-ray	51
+1 surgically	51
+1 removed	51
+1 recurrence	51
+1 complete	50
+1 than	50
+1 scanning	50
+1 nodules	49
+1 unsharp	49
+1 atleast	49
+1 pathological	48
+1 represent	48
+1 calcified	48
+1 exact	48
+1 obliterated	48
+1 abnormalities	48
+1 translucency	47
+1 thigh	47
+1 releaving	47
+1 back	46
+1 raised	46
+1 prolapse	45
+1 non-viable	45
+1 pelvi	45
+1 yet	45
+1 debris	45
+1 measure	45
+1 dermoid	45
+1 information	44
+1 parietal	44
+1 adhesion	44
+1 multisepted	43
+1 clinically	43
+1 situ	43
+1 cellulites	43
+1 wants	43
+1 conceive	43
+1 neoplasm	43
+1 splenoportal	43
+1 epigastric	43
+1 over	43
+1 retroperitoneal	43
+1 ureters	42
+1 foci	42
+1 stenosis	42
+1 his	42
+1 tail	42
+1 repeat	42
+1 baby	42
+1 great	42
+1 calcific	41
+1 meal	41
+1 operation	41
+1 trilaminar	41
+1 intraluminal	41
+1 imperceptible	41
+1 obscuration	41
+1 mesenteric	41
+1 posteriorly	41
+1 buttock	41
+1 stroma	40
+1 voidal	40
+1 anteriorly	39
+1 umbilicus	39
+1 d	39
+1 mastectomy	39
+1 luteal	39
+1 hypochondriac	39
+1 uncountable	39
+1 facial	38
+1 penis	38
+1 muscular	38
+1 prostectomy	38
+1 below	38
+1 vertical	38
+1 crying	38
+1 calibre	37
+1 hypertrophic	37
+1 iii	37
+1 constant	37
+1 bone	37
+1 height	37
+1 articular	37
+1 vesical	37
+1 oligohydramnious	36
+1 eccentric	36
+1 diastolic	36
+1 clotted	36
+1 hypoxia	36
+1 membrane	35
+1 protruded	35
+1 pylorus	35
+1 content	35
+1 ductus	35
+1 venosus	35
+1 deep	35
+1 facing	34
+1 non	34
+1 deposition	34
+1 displacing	34
+1 semi	34
+1 prostatitis	34
+1 products	34
+1 β-hcg	34
+1 adrenal	34
+1 reduced	33
+1 caliber	33
+1 bed	33
+1 ca	33
+1 contains	33
+1 surrounding	33
+1 gap	33
+1 iv	32
+1 haemorrhage	32
+1 masses	32
+1 lumber	32
+1 obliteration	32
+1 organized	32
+1 measurement	31
+1 catheter	31
+1 patient's	31
+1 clavicular	31
+1 geographical	31
+1 sluggish	31
+1 inflammed	31
+1 impaired	31
+1 evaluated	31
+1 notch	31
+1 fibrosed	31
+1 origin	31
+1 infra	31
+1 incisional	31
+1 properly	31
+1 pnumobilia	31
+1 peristaltic	30
+1 ventricle	30
+1 standard	30
+1 serum	30
+1 postprandial	30
+1 infront	30
+1 peyronie's	29
+1 myomas	29
+1 parameter	29
+1 course	29
+1 inhilar	29
+1 loop	29
+1 distal	28
+1 motion	28
+1 negative	28
+1 previa	28
+1 separating	28
+1 individual	28
+1 cavernosum	28
+1 similar	28
+1 bony	28
+1 appendymal	28
+1 intermediate	28
+1 treated	28
+1 too	28
+1 nephrectomy	28
+1 lymphnodes	28
+1 multi	28
+1 smallest	28
+1 two-amniotic	27
+1 folly's	27
+1 degenerated	27
+1 utero	27
+1 stent	27
+1 diagastric	26
+1 arranged	26
+1 balloon	26
+1 patient	26
+1 adherent	26
+1 nasal	26
+1 e	26
+1 separated	26
+1 contrast	26
+1 undescended	26
+1 angiolipoma	25
+1 jugolo	25
+1 resolving	25
+1 above	25
+1 polyhydramnios	25
+1 site	25
+1 oedematous	25
+1 occasionally	25
+1 relation	24
+1 salivary	24
+1 remaining	24
+1 known	24
+1 infantile	24
+1 lumbar	24
+1 bicornuate	24
+1 simply	23
+1 peripherally	23
+1 centrally	23
+1 lactational	23
+1 v	23
+1 end	23
+1 lunar	23
+1 veins	23
+1 segmental	23
+1 clinico	23
+1 deeper	23
+1 built	22
+1 mastitis	22
+1 pancreatitis	22
+1 extension	22
+1 parotitis	22
+1 communication	22
+1 hypoechic	22
+1 iso	22
+1 centric	22
+1 tendo	22
+1 color	21
+1 glans	21
+1 septated	21
+1 marginal	21
+1 indicated	21
+1 indistinct	21
+1 screening	21
+1 j	21
+1 tochographic	21
+1 cardiotochography	21
+1 acceleration	21
+1 fibrosis	21
+1 fasting	21
+1 evaluate	21
+1 incidental	21
+1 retractile	21
+1 sub-mandibular	21
+1 radiological	20
+1 lymph-adenopathy	20
+1 mural	20
+1 nothing	20
+1 acutely	20
+1 testicular	20
+1 isoechoic	20
+1 possible	20
+1 asymmetrically	20
+1 hepatitis	20
+1 hypertrophied	19
+1 they	19
+1 menopause	19
+1 hepatis	19
+1 good	19
+1 thyroidectomy	19
+1 root	19
+1 swelling	19
+1 twisted	19
+1 hyperplasia	19
+1 hyperechoic	19
+1 crystal	19
+1 endocervical	18
+1 because	18
+1 blighted	18
+1 fibroadenomas	18
+1 processus	18
+1 abdomino-pelvic	18
+1 material	18
+1 five	18
+1 goitre	18
+1 hugely	18
+1 arm	18
+1 even	18
+1 separate	18
+1 number	18
+1 mostly	18
+1 rudimentary	18
+1 ovum	17
+1 ill-defined	17
+1 indicate	17
+1 lithiasis	17
+1 testicle	17
+1 neurofibroma	17
+1 endometrioma	17
+1 orchitis	17
+1 horn	17
+1 oophorectomy	16
+1 aggregated	16
+1 finger	16
+1 diseases	16
+1 ankle	16
+1 multinodular	16
+1 injury	16
+1 flextion	16
+1 plaque	16
+1 fluidy	16
+1 di	16
+1 tumour	16
+1 spermatic	15
+1 rare	15
+1 upwards	15
+1 numerous	15
+1 said	15
+1 thyroiditis	15
+1 grade-li	15
+1 ligaments	15
+1 popliteal	15
+1 foot	15
+1 infected	15
+1 nephrocalcinosis	15
+1 distorted	15
+1 trigone	15
+1 lies	15
+1 thrombosis	15
+1 imaging	15
+1 hygroma	14
+1 suspended	14
+1 ureterocele	14
+1 occipital	14
+1 scalp	14
+1 pushes	14
+1 intrauterine	14
+1 organ	14
+1 fibrous	14
+1 patellar	14
+1 organs	14
+1 stage	14
+1 lung	13
+1 herniated	13
+1 anembryonic	13
+1 thus	13
+1 narrow	13
+1 arterial	13
+1 milk	13
+1 neither	13
+1 anechoic	13
+1 throughout	13
+1 superficial	13
+1 behind	13
+1 knot	13
+1 thrombus	13
+1 formation	13
+1 intussuception	13
+1 close	13
+1 threatened	13
+1 hydrocalycosis	13
+1 mucosal	13
+1 endo	13
+1 choledocholithiasis	13
+1 minute	13
+1 prox	13
+1 band	13
+1 inbetween	13
+1 downward	12
+1 beast	12
+1 lump	12
+1 blind	12
+1 mainly	12
+1 shorter	12
+1 fibroglandular	12
+1 diverticulum	12
+1 cornu	12
+1 elbow	12
+1 lobulated	12
+1 localisation	12
+1 cholangitis	12
+1 sepsis	12
+1 cranial	12
+1 conservative	12
+1 bits	12
+1 achilis	12
+1 together	11
+1 find	11
+1 molar	11
+1 immature	11
+1 amenorrhoea	11
+1 agenesis	11
+1 cephal	11
+1 ectacia	11
+1 late	11
+1 postpartum	11
+1 spongy	11
+1 tubercular	11
+1 indentation	11
+1 condition	11
+1 pedunculated	11
+1 under	11
+1 dimension	11
+1 into	10
+1 ventral	10
+1 secondary	10
+1 isolated	10
+1 old	10
+1 persistent	10
+1 variant	10
+1 responsible	10
+1 centile	10
+1 tubular	10
+1 posture	10
+1 food	10
+1 week	10
+1 most	10
+1 diamniotic	10
+1 variety	10
+1 show	10
+1 segments	10
+1 malformation	10
+1 labial	10
+1 cold	10
+1 stitches	10
+1 tract	10
+2 normal in	71188
+2 in size	63905
+2 is seen	51702
+2 not dilated	36273
+2 measures about	32686
+2 is normal	27416
+2 is not	26710
+2 there is	26343
+2 no stone	26170
+2 is no	24565
+2 within the	23137
+2 with normal	22745
+2 size with	19137
+2 both kidneys	17067
+2 fluid is	16087
+2 duct is	14502
+2 stone or	14483
+2 at either	13749
+2 are normal	13636
+2 kidney measures	13482
+2 thickness is	13386
+2 well filled	13189
+2 in the	13098
+2 well defined	12682
+2 left kidney	12000
+2 right kidney	11992
+2 are not	11981
+2 kidneys are	11832
+2 or any	11072
+2 seen within	10841
+2 and normal	10372
+2 with well	10310
+2 defined cortex	10279
+2 seen in	10088
+2 urinary bladder	9808
+2 filled and	9681
+2 gall bladder	9391
+2 of fluid	9366
+2 size and	9227
+2 soft tissue	9183
+2 intra hepatic	9162
+2 tissue mass	9149
+2 focal lesion	9094
+2 wall thickness	8882
+2 collection of	8859
+2 no focal	8771
+2 measuring about	8766
+2 within normal	8622
+2 normal limit	8607
+2 hepatic biliary	8602
+2 ovary measures	8600
+2 of the	8393
+2 portal vein	8361
+2 no collection	8334
+2 pancreatic duct	8215
+2 seen at	8149
+2 inner wall	8100
+2 in position	8057
+2 or calculus	8053
+2 any soft	8043
+2 the urinary	7900
+2 normal echopattern	7811
+2 mass within	7724
+2 enlarged in	7624
+2 suggestive of	7386
+2 either side	7289
+2 within it	7281
+2 lesion is	7090
+2 right ovary	7050
+2 kidney is	7048
+2 left ovary	7025
+2 biliary tree	7012
+2 pelvicalyceal dilatation	6955
+2 stone is	6903
+2 in contour	6668
+2 normal thickness	6654
+2 and shape	6639
+2 calculus is	6628
+2 anteverted in	6565
+2 lumen of	6524
+2 ascitic fluid	6447
+2 vein is	6427
+2 is within	6424
+2 hepatic parenchyma	6412
+2 the hepatic	6406
+2 shape with	6386
+2 echotexture of	6375
+2 no ascitic	6355
+2 dilatation at	6334
+2 or pelvicalyceal	6326
+2 the lumen	6320
+2 uniform in	6223
+2 pouch of	6219
+2 mass lesion	6216
+2 lower abdomen	6199
+2 mildly enlarged	6171
+2 of right	6158
+2 side of	6154
+2 thickness of	6128
+2 length of	6128
+2 in echotexture	6095
+2 and uniform	6021
+2 biliary trees	5961
+2 trees are	5921
+2 bile duct	5918
+2 common bile	5917
+2 cm x	5867
+2 position with	5822
+2 of liver	5784
+2 to pole	5777
+2 pleural space	5770
+2 pole to	5756
+2 from pole	5750
+2 at upper	5730
+2 of pleural	5714
+2 lesion within	5670
+2 evidence of	5667
+2 or lower	5660
+2 seen either	5659
+2 upper or	5659
+2 either at	5654
+2 uterus is	5652
+2 of it's	5473
+2 it's wall	5473
+2 either kidney	5472
+2 of left	5331
+2 could be	5322
+2 in both	5149
+2 one measures	5146
+2 in outline	5067
+2 appear normal	5060
+2 of douglas	5023
+2 stone within	5008
+2 containing no	4986
+2 diameter of	4871
+2 bipolar length	4825
+2 be detected	4795
+2 no evidence	4738
+2 fatty change	4718
+2 appears normal	4607
+2 at present	4550
+2 fluid collection	4505
+2 no mass	4467
+2 parenchymal echotexture	4346
+2 of both	4327
+2 with homogeneous	4163
+2 change of	4144
+2 liver is	3987
+2 to be	3985
+2 pancreas is	3982
+2 homogeneous echopattern	3926
+2 cortex and	3917
+2 and medulla	3908
+2 the pouch	3894
+2 which is	3894
+2 systems of	3798
+2 without any	3792
+2 is about	3789
+2 tubo ovarian	3786
+2 biliary sludge	3784
+2 collection is	3650
+2 lesion or	3617
+2 no fluid	3615
+2 in length	3548
+2 shape and	3543
+2 volume being	3524
+2 and position	3500
+2 seen on	3493
+2 on either	3473
+2 endometrial thickness	3334
+2 ovarian regions	3331
+2 spleno-portal venous	3324
+2 bladder appears	3314
+2 both tubo	3310
+2 system is	3294
+2 appears well	3268
+2 echogenic structure	3263
+2 regions appear	3216
+2 kidneys appear	3164
+2 cm volume	3163
+2 parenchymal echopattern	3126
+2 are seen	3033
+2 normal parenchymal	3014
+2 no wall	3014
+2 wall thickening	3014
+2 demonstrable intravesical	3014
+2 intravesical lesion	3014
+2 thickening seen	3013
+2 cul de	3004
+2 de sac	3004
+2 no demonstrable	2996
+2 and anteverted	2979
+2 volume is	2976
+2 focal or	2961
+2 venous system	2957
+2 hepatomegaly with	2831
+2 ducts are	2775
+2 with fatty	2766
+2 mild hepatomegaly	2752
+2 is homogeneous	2747
+2 kidneys with	2743
+2 largest one	2732
+2 amniotic fluid	2726
+2 endometrium is	2720
+2 uterine myometrium	2681
+2 cm in	2676
+2 in mid	2670
+2 the uterine	2665
+2 of pancreas	2664
+2 main pancreatic	2662
+2 be normal	2658
+2 differentiation is	2652
+2 gestational sac	2648
+2 cystic area	2644
+2 days of	2640
+2 of portal	2629
+2 biliary radicals	2628
+2 radicals and	2628
+2 and common	2628
+2 common ducts	2628
+2 cortico-medullary differentiation	2593
+2 is mildly	2588
+2 mid hepatic	2579
+2 cavity is	2573
+2 hepatic plane	2569
+2 there are	2538
+2 internal diameter	2535
+2 no abnormal	2530
+2 foetal head	2447
+2 that of	2438
+2 normal echogenicity	2415
+2 head is	2411
+2 bright echopattern	2406
+2 with homogeneously	2405
+2 normal with	2360
+2 appear to	2350
+2 calyceal systems	2334
+2 sludge is	2285
+2 a well	2261
+2 the gallbladder	2250
+2 of echogenic	2232
+2 structure or	2221
+2 or biliary	2217
+2 hypoechoic focal	2212
+2 amount of	2209
+2 and that	2203
+2 are within	2187
+2 is clear	2169
+2 in echopattern	2167
+2 foetal heart	2153
+2 no intravesical	2147
+2 diffuse lesion	2119
+2 movement is	2117
+2 of pregnancy	2099
+2 product of	2094
+2 the foetal	2086
+2 multiple follicles	2082
+2 mass or	2070
+2 both the	2066
+2 sac or	2047
+2 vein are	2045
+2 no gestational	2019
+2 mildly dilated	2006
+2 any product	1992
+2 intravesical mass	1969
+2 echo is	1960
+2 calculus could	1950
+2 of conception	1944
+2 parenchymal echogenicity	1933
+2 central cavity	1906
+2 bulky in	1891
+2 on left	1889
+2 foetal movement	1879
+2 follicles in	1866
+2 the central	1861
+2 and echopattern	1845
+2 on right	1840
+2 enlarged lymph	1831
+2 both ovaries	1818
+2 are multiple	1815
+2 in right	1814
+2 umbilical cord	1801
+2 structure is	1789
+2 is empty	1787
+2 the cavity	1765
+2 increased parenchymal	1764
+2 ovary at	1758
+2 another larger	1747
+2 cavity echo	1738
+2 any mass	1734
+2 part of	1718
+2 mm on	1712
+2 cervix is	1705
+2 bulky uterus	1668
+2 or diffuse	1667
+2 normal study	1662
+2 foetus is	1662
+2 abnormal cystic	1658
+2 slightly bright	1655
+2 cystic structure	1641
+2 rate is	1640
+2 larger one	1632
+2 homogeneously slightly	1630
+2 left breast	1628
+2 right breast	1623
+2 with mild	1621
+2 the right	1617
+2 the foetus	1615
+2 filled with	1608
+2 the uterus	1593
+2 bigger one	1588
+2 appears to	1588
+2 mass could	1582
+2 heart rate	1582
+2 myometrium and	1566
+2 and endometrium	1565
+2 bladder is	1556
+2 the left	1552
+2 either ovary	1550
+2 normal and	1542
+2 and the	1533
+2 appears homogenous	1522
+2 residual urine	1521
+2 ovaries are	1519
+2 away from	1519
+2 echogenicity with	1497
+2 ovary is	1492
+2 lymph node	1476
+2 study at	1471
+2 period shows	1466
+2 postvoidal period	1465
+2 ml of	1463
+2 high frequency	1458
+2 by high	1457
+2 frequency probe	1457
+2 the largest	1457
+2 examined by	1455
+2 in left	1439
+2 could not	1433
+2 focal nodular	1429
+2 maximum thickness	1420
+2 with suggestive	1415
+2 of residual	1387
+2 echopattern of	1386
+2 of about	1384
+2 placenta is	1371
+2 the liver	1361
+2 is bulky	1360
+2 of amniotic	1348
+2 of urinary	1347
+2 with thickened	1345
+2 channels are	1344
+2 biliary channels	1343
+2 the pancreas	1339
+2 collection in	1336
+2 is enlarged	1336
+2 of hepatic	1335
+2 fatty infiltration	1328
+2 the gall	1328
+2 case of	1328
+2 visualisation of	1327
+2 is compatible	1327
+2 infiltration of	1326
+2 normal visualisation	1323
+2 diaphragm-which is	1323
+2 compatible with	1323
+2 mild fatty	1322
+2 biparietal diameter	1321
+2 grading is	1316
+2 portion of	1313
+2 is lying	1312
+2 hepatic portion	1310
+2 placental grading	1305
+2 with no	1298
+2 femoral length	1293
+2 a case	1289
+2 is noted	1283
+2 area is	1275
+2 foetal abdomen	1271
+2 homogenous in	1269
+2 right lobe	1262
+2 abdominal circumference	1260
+2 in its	1252
+2 enlarged prostate	1245
+2 aspect of	1243
+2 is a	1238
+2 cm bipolar	1235
+2 the ovaries	1230
+2 lymph nodes	1214
+2 uterus with	1213
+2 pregnancy with	1211
+2 conception within	1209
+2 and contour	1199
+2 contour with	1198
+2 with smooth	1198
+2 cm and	1180
+2 sludge or	1168
+2 correspond to	1166
+2 both adnexal	1164
+2 to about	1162
+2 retro placental	1161
+2 normal upto	1157
+2 placental collection	1155
+2 from os	1144
+2 well dilated	1142
+2 are enlarged	1141
+2 douglas is	1141
+2 smooth walls	1140
+2 walls of	1137
+2 the measurements	1136
+2 measurements correspond	1136
+2 not visualised	1132
+2 axillary region	1132
+2 of different	1127
+2 different sizes	1124
+2 pelvi-calyceal systems	1123
+2 thyroid gland	1121
+2 with multiple	1118
+2 of thyroid	1110
+2 bilateral enlarged	1110
+2 at left	1108
+2 fairly large	1098
+2 no intra	1097
+2 cm a	1090
+2 parenchyma appears	1089
+2 intra luminal	1081
+2 luminal biliary	1080
+2 foetal biometry	1078
+2 lying low	1077
+2 low at	1068
+2 defined cystic	1067
+2 or soft	1067
+2 left side	1061
+2 cyst or	1057
+2 not be	1046
+2 side to	1041
+2 to side	1041
+2 region appears	1039
+2 any remarkable	1032
+2 parametrium is	1027
+2 fluid index	1027
+2 index is	1026
+2 right side	1023
+2 of uterus	1021
+2 myometrium appears	1020
+2 ovaries with	1019
+2 a tiny	1018
+2 rest of	1009
+2 p diameter	993
+2 enlarged ovaries	989
+2 outer aspect	986
+2 bright echogenic	984
+2 right testis	982
+2 regions are	978
+2 left testis	977
+2 remarkable cyst	976
+2 homogeneously bright	970
+2 is present	970
+2 acoustic shadow	962
+2 abnormality is	962
+2 foetal anatomy	961
+2 be seen	959
+2 testis measures	956
+2 lobe of	943
+2 at right	938
+2 a small	930
+2 of normal	928
+2 correlate with	922
+2 please correlate	918
+2 pelvicalyceal system	910
+2 myometrium is	908
+2 cm left	902
+2 circumference is	898
+2 small cystic	896
+2 of cystitis	896
+2 suggesting enlarged	886
+2 any focal	885
+2 left lobe	875
+2 cm long	873
+2 normal foetal	869
+2 defined hypoechoic	868
+2 hepatic vessels	863
+2 of umbilical	863
+2 in a	861
+2 long x	859
+2 with evidence	855
+2 in different	844
+2 faint echogenic	844
+2 dilated part	842
+2 echodensity are	841
+2 or hypoechoic	841
+2 homogenous without	838
+2 nodular lesions	835
+2 cm transverse	833
+2 gland is	806
+2 central and	806
+2 and empty	806
+2 is central	800
+2 conception could	798
+2 is posterior	793
+2 echogenic structures	789
+2 vascular flow	786
+2 multiple tiny	785
+2 sizes are	783
+2 of placental	776
+2 normal without	776
+2 normal vascular	774
+2 parts of	773
+2 area in	772
+2 different parts	769
+2 nodular lesion	765
+2 mixed echogenic	764
+2 active foetal	762
+2 is anterior	762
+2 both testes	762
+2 thick wall	761
+2 with a	758
+2 testis is	757
+2 placental separation	753
+2 separation or	753
+2 or retro	753
+2 tiny faint	749
+2 of single	746
+2 pelvis of	744
+2 pelvis is	742
+2 flow within	740
+2 in appearance	734
+2 cerebral hemispheres	734
+2 adnexal region	730
+2 wall of	729
+2 the anterior	728
+2 in thickness	725
+2 the prostate	723
+2 prostate is	723
+2 and regular	721
+2 of mild	719
+2 ruled out	716
+2 multiple hypoechoic	716
+2 diameter without	706
+2 of myometrium	701
+2 noted at	700
+2 of bilateral	699
+2 mid line	698
+2 its dilated	696
+2 be atrophied	694
+2 ventricles are	694
+2 volume measures	691
+2 within its	688
+2 acoustic shadows	688
+2 due to	687
+2 lesion in	687
+2 no mid	685
+2 line shift	685
+2 shift is	685
+2 be ruled	684
+2 hemispheres are	684
+2 size but	678
+2 both cerebral	678
+2 either cerebral	678
+2 pap's smear	671
+2 small amount	670
+2 however no	668
+2 adnexal regions	668
+2 casting no	661
+2 irregular in	656
+2 lesion at	656
+2 is adequate	652
+2 seen with	649
+2 the upper	643
+2 smear for	638
+2 of spinal	638
+2 spinal defect	637
+2 anterior chain	636
+2 abdomen appears	635
+2 normal insertion	635
+2 insertion of	635
+2 with intact	634
+2 but irregular	633
+2 spine appears	633
+2 the lower	632
+2 four cardiac	632
+2 cardiac chambers	632
+2 chambers are	632
+2 anomaly is	631
+2 foetal kidneys	629
+2 no pelvicalyceal	629
+2 the mid	628
+2 suggesting multiple	626
+2 weeks of	621
+2 to the	620
+2 lesion could	612
+2 for the	610
+2 is slightly	607
+2 day of	605
+2 multiple enlarged	604
+2 noted in	603
+2 foetal well	602
+2 according to	592
+2 with peripheral	590
+2 area with	589
+2 of cervicitis	588
+2 hypoechoic area	587
+2 of tiny	585
+2 is i	584
+2 echogenic focal	583
+2 heart movement	580
+2 is gravid	577
+2 nipple is	575
+2 slightly increased	575
+2 lesions are	574
+2 are noted	574
+2 hemi scrotum	573
+2 no definite	571
+2 breast appears	570
+2 change in	570
+2 cardiac pulsation	569
+2 limit of	559
+2 peripheral distribution	558
+2 not retracted	556
+2 anterior wall	550
+2 upper limit	548
+2 abdominal wall	547
+2 detected by	547
+2 present and	546
+2 pelvicalyceal systems	546
+2 of pelvis	545
+2 of fetal	544
+2 the tunica	543
+2 tunica vaginalis	542
+2 viable pregnancy	541
+2 vaginalis of	540
+2 not present	540
+2 no acoustic	538
+2 gestational age	536
+2 dilation is	535
+2 normal for	534
+2 vascular dilation	534
+2 spleen is	533
+2 the spleen	531
+2 with cephalic	530
+2 fluid within	527
+2 left renal	525
+2 possibility of	525
+2 size from	522
+2 casting acoustic	521
+2 mid part	521
+2 from side	519
+2 normal size	518
+2 containing a	515
+2 please see	514
+2 cortical cyst	511
+2 present in	511
+2 be due	510
+2 cerebral hemisphere	508
+2 intact septa	506
+2 in hilar	505
+2 hilar region	505
+2 renal cortical	504
+2 significant abnormality	501
+2 ovarian region	500
+2 cyst in	500
+2 no significant	497
+2 with central	496
+2 the post	493
+2 lesions of	487
+2 lower part	484
+2 o hysterectomy	483
+2 may be	483
+2 a hypoechoic	482
+2 surface margin	478
+2 of multiple	478
+2 upper part	478
+2 the surface	475
+2 both axillary	475
+2 abnormal collection	473
+2 menopausal age	472
+2 isthmus of	469
+2 lesion with	469
+2 post menopausal	469
+2 shows increased	469
+2 segment of	466
+2 beyond the	463
+2 is small	460
+2 gravid containing	458
+2 in all	456
+2 normal findings	454
+2 liquor volume	454
+2 of gestation	453
+2 adequate at	453
+2 breast is	452
+2 cardiac activity	451
+2 any diffuse	451
+2 system of	450
+2 findings at	448
+2 no obvious	448
+2 right renal	447
+2 having single	446
+2 with thick	444
+2 uterus measures	443
+2 right axillary	440
+2 smaller in	440
+2 doppler study	437
+2 ve cardiac	437
+2 normal echotexture	436
+2 small hypoechoic	436
+2 testes are	436
+2 extended beyond	433
+2 o cholecystectomy	433
+2 live pregnancy	433
+2 few small	432
+2 left axillary	431
+2 all quadrants	430
+2 low level	429
+2 with hormonal	427
+2 the antero	426
+2 tiny cystic	426
+2 and left	426
+2 visible parenchymal	425
+2 yolk sac	422
+2 in comparison	421
+2 no retro	421
+2 hormonal study	419
+2 cephalic presentation	418
+2 comparison to	417
+2 see the	417
+2 organised biliary	417
+2 dilated pelvis	412
+2 both axilla	412
+2 cystic areas	411
+2 with small	409
+2 size without	406
+2 pulsation is	403
+2 two measures	402
+2 sac is	402
+2 either hemi	401
+2 containing single	398
+2 of either	394
+2 acoustic enhancement	393
+2 cord is	393
+2 central echogenic	389
+2 flow is	388
+2 corresponding to	387
+2 thick organised	386
+2 mass is	385
+2 foetal weight	383
+2 abnormality could	382
+2 with lab	380
+2 right lower	380
+2 are mildly	377
+2 epididymis of	377
+2 no other	377
+2 fetus is	376
+2 another one	375
+2 mild hydronephrosis	374
+2 foetus with	374
+2 well being	374
+2 structures of	373
+2 weight is	372
+2 is approximately	372
+2 single foetus	372
+2 calyces are	371
+2 cystic structures	370
+2 however calyces	369
+2 presentation at	369
+2 study of	367
+2 venous is	366
+2 of vericocele	366
+2 echogenic matrix	362
+2 activity and	362
+2 is also	362
+2 anomaly scan	361
+2 visible foetal	360
+2 circumference of	359
+2 of early	357
+2 pole of	356
+2 fluid volume	356
+2 calculated foetal	355
+2 size in	352
+2 posterior acoustic	352
+2 of clinched	350
+2 clinched fist	350
+2 iliac fossa	350
+2 retroverted in	349
+2 matrix is	348
+2 in location	345
+2 vascularity appears	345
+2 mild splenomegaly	343
+2 soft nephrolithiasis	343
+2 in liver	342
+2 posterior wall	342
+2 inguinal region	341
+2 vericocele at	340
+2 a cystic	339
+2 mm in	339
+2 anterior abdominal	338
+2 area measuring	338
+2 right axilla	335
+2 faint acoustic	334
+2 a fairly	334
+2 no ascites	334
+2 one measuring	332
+2 normal range	332
+2 right iliac	332
+2 left axilla	330
+2 muscle tone	330
+2 all the	330
+2 near the	329
+2 ascites is	329
+2 tone appears	328
+2 shows no	328
+2 cm which	328
+2 echogenicity of	326
+2 placenta location	325
+2 location is	325
+2 subserous in	324
+2 evaluation of	322
+2 fetal anomaly	322
+2 scan shows	322
+2 obvious abnormality	322
+2 all small	322
+2 small anatomical	322
+2 chromosomal abnormality	322
+2 casting posterior	322
+2 focal lesions	322
+2 one in	321
+2 predominantly at	321
+2 or placenta	321
+2 of previous	321
+2 free of	320
+2 placenta insufficiency	320
+2 however pelvicalyceal	320
+2 areas of	319
+2 cm is	319
+2 appears intact	317
+2 fetal growth	317
+2 subcutaneous tissue	317
+2 loss of	316
+2 foetal stomach	316
+2 wall appears	316
+2 intact with	316
+2 normal cord	316
+2 cord insertion	316
+2 single pregnancy	316
+2 its lower	315
+2 of viable	315
+2 no specific	315
+2 specific intracranial	315
+2 intracranial abnormality	315
+2 stomach and	315
+2 and urinary	315
+2 apparently normal	315
+2 single viable	315
+2 casting faint	314
+2 containing multiple	314
+2 no ventriculo-megaly	314
+2 other skeletal	314
+2 skeletal system	314
+2 system are	314
+2 are apparently	314
+2 foetal limbs	313
+2 the fetal	312
+2 growth curve	312
+2 foetal growth	311
+2 upper anterior	311
+2 follow up	311
+2 seen and	309
+2 and appears	309
+2 vessel umbilical	309
+2 nodes are	309
+2 at ultrasound	309
+2 with loss	308
+2 not correspond	307
+2 volume of	307
+2 four chambered	306
+2 chambered heart	306
+2 heart appear	306
+2 tiny soft	305
+2 no apparent	305
+2 parenchymal changes	301
+2 with slightly	300
+2 structures casting	300
+2 with low	300
+2 slightly bulky	300
+2 correspond with	299
+2 corresponds to	298
+2 single live	298
+2 renal cyst	296
+2 follicle study	296
+2 are uniform	296
+2 areola appear	295
+2 ill defined	295
+2 with her	292
+2 para pelvic	292
+2 foetal congenital	291
+2 cysts are	289
+2 apparent foetal	289
+2 cholesterol cholelithiasis	288
+2 echotexture are	288
+2 its mid	287
+2 area casting	287
+2 head of	287
+2 of body	287
+2 congenital anomaly	285
+2 its upper	283
+2 prostate with	282
+2 see also	282
+2 of neck	282
+2 does not	279
+2 superior aspect	279
+2 cystic lesion	278
+2 neck region	278
+2 the head	278
+2 but there	278
+2 of cord	277
+2 fat sparing	277
+2 kidney with	276
+2 antero inferior	276
+2 region free	276
+2 mid anterior	275
+2 tissue is	275
+2 few prominent	275
+2 systems are	275
+2 level echo	274
+2 of which	274
+2 billary tree	274
+2 lumen in	272
+2 antero superior	271
+2 multiple cystic	270
+2 viable foetus	270
+2 faint bright	269
+2 seen visible	269
+2 visible lumen	269
+2 at the	269
+2 in supine	269
+2 as described	268
+2 supine position	268
+2 ovary with	267
+2 presentation with	266
+2 the epididymis	264
+2 prominent lymph	263
+2 to compensatory	263
+2 are well	262
+2 inside the	261
+2 cm on	260
+2 both extremities	260
+2 extremities are	260
+2 are examined	259
+2 increase echogenicity	258
+2 the sac	257
+2 mm which	256
+2 the cortices	256
+2 normal volume	255
+2 of ovary	255
+2 is extended	254
+2 are equal	254
+2 equal in	254
+2 but with	253
+2 bigger two	253
+2 the postero	253
+2 with increased	252
+2 long axis	251
+2 is symmetrical	251
+2 symmetrical in	251
+2 chronic parenchymal	250
+2 both breasts	250
+2 left tubo	249
+2 cervical part	249
+2 compensatory effect	249
+2 regular at	248
+2 the moment	248
+2 sparing area	248
+2 bright in	247
+2 node in	247
+2 of gallbladder	247
+2 previous cholecystectomy	247
+2 which does	246
+3 normal in size	53506
+3 is not dilated	24983
+3 there is no	24399
+3 in size with	19126
+3 fluid is seen	14708
+3 no stone or	14395
+3 is no stone	14080
+3 duct is not	14038
+3 is normal in	13852
+3 size with normal	13723
+3 kidney measures about	13477
+3 are normal in	12361
+3 both kidneys are	11191
+3 are not dilated	11144
+3 kidneys are normal	10975
+3 is seen within	10578
+3 and normal in	10328
+3 with well defined	10272
+3 well defined cortex	10241
+3 seen within the	9836
+3 filled and normal	9681
+3 well filled and	9642
+3 in size and	9227
+3 soft tissue mass	9120
+3 collection of fluid	8858
+3 intra hepatic biliary	8598
+3 ovary measures about	8595
+3 within normal limit	8582
+3 of fluid is	8330
+3 no collection of	8325
+3 pancreatic duct is	8170
+3 wall thickness is	8170
+3 stone or any	8130
+3 seen in the	8069
+3 or any soft	8043
+3 any soft tissue	8041
+3 the urinary bladder	7896
+3 is seen at	7848
+3 with normal echopattern	7789
+3 is seen in	7769
+3 tissue mass within	7722
+3 enlarged in size	7599
+3 no focal lesion	7374
+3 seen at either	7355
+3 lesion is seen	6900
+3 stone is seen	6879
+3 right kidney measures	6743
+3 no stone is	6740
+3 left kidney measures	6739
+3 inner wall thickness	6671
+3 normal in contour	6668
+3 calculus is seen	6624
+3 size and shape	6620
+3 anteverted in position	6541
+3 is within normal	6413
+3 ascitic fluid is	6404
+3 thickness is normal	6403
+3 shape with well	6386
+3 and shape with	6385
+3 the hepatic parenchyma	6336
+3 pelvicalyceal dilatation at	6334
+3 or pelvicalyceal dilatation	6326
+3 stone or pelvicalyceal	6313
+3 the lumen of	6307
+3 no ascitic fluid	6294
+3 within the lumen	6294
+3 is no focal	6245
+3 portal vein is	6150
+3 at either side	6117
+3 or calculus is	6093
+3 uniform in echotexture	6092
+3 within the hepatic	6043
+3 and uniform in	6021
+3 hepatic biliary trees	5960
+3 biliary trees are	5921
+3 common bile duct	5917
+3 bile duct is	5917
+3 trees are not	5905
+3 vein is not	5884
+3 pole to pole	5755
+3 either side of	5741
+3 from pole to	5728
+3 side of pleural	5713
+3 of pleural space	5711
+3 within the urinary	5678
+3 lesion within the	5669
+3 focal lesion within	5667
+3 is seen either	5659
+3 upper or lower	5659
+3 seen either at	5654
+3 either at upper	5653
+3 or lower abdomen	5653
+3 at upper or	5652
+3 mass within the	5650
+3 dilatation at either	5474
+3 of it's wall	5472
+3 at either kidney	5472
+3 with normal thickness	5414
+3 thickness of it's	5241
+3 normal thickness of	5235
+3 pouch of douglas	5017
+3 stone within it	5000
+3 no stone within	4984
+3 normal in outline	4975
+3 containing no stone	4963
+3 right ovary measures	4852
+3 bipolar length of	4824
+3 mildly enlarged in	4772
+3 no evidence of	4738
+3 could be detected	4425
+3 of right kidney	4266
+3 one measures about	4232
+3 change of liver	4131
+3 fatty change of	4079
+3 of both kidneys	3964
+3 cortex and medulla	3908
+3 the pouch of	3892
+3 in the pouch	3890
+3 defined cortex and	3875
+3 with homogeneous echopattern	3873
+3 systems of both	3773
+3 left ovary measures	3746
+3 of left kidney	3719
+3 no fluid collection	3614
+3 right kidney is	3546
+3 collection is seen	3514
+3 position with well	3514
+3 shape and position	3498
+3 is seen on	3490
+3 seen on either	3470
+3 left kidney is	3459
+3 mass lesion or	3406
+3 and position with	3335
+3 endometrial thickness is	3313
+3 both tubo ovarian	3310
+3 tubo ovarian regions	3309
+3 system is not	3278
+3 bladder appears well	3268
+3 parenchymal echotexture of	3190
+3 kidneys appear normal	3162
+3 both kidneys appear	3160
+3 cm volume being	3142
+3 lesion or calculus	3067
+3 fluid collection is	3054
+3 uterus is normal	3027
+3 demonstrable intravesical lesion	3014
+3 intravesical lesion is	3014
+3 no wall thickening	3013
+3 wall thickening seen	3012
+3 cul de sac	3004
+3 no demonstrable intravesical	2996
+3 and anteverted in	2975
+3 normal parenchymal echopattern	2959
+3 spleno-portal venous system	2957
+3 venous system is	2957
+3 normal in both	2887
+3 liver is normal	2875
+3 with normal parenchymal	2775
+3 with fatty change	2758
+3 hepatomegaly with fatty	2695
+3 of the uterine	2659
+3 echotexture of the	2658
+3 to be normal	2657
+3 the uterine myometrium	2657
+3 length of right	2652
+3 in both kidneys	2649
+3 of pancreas is	2645
+3 echotexture of pancreas	2644
+3 pancreas is homogeneous	2639
+3 hepatic biliary radicals	2628
+3 biliary radicals and	2628
+3 radicals and common	2628
+3 and common ducts	2628
+3 common ducts are	2628
+3 ducts are not	2628
+3 of portal vein	2627
+3 both kidneys with	2627
+3 endometrium is normal	2614
+3 in mid hepatic	2577
+3 mid hepatic plane	2569
+3 cortico-medullary differentiation is	2568
+3 differentiation is normal	2555
+3 internal diameter of	2535
+3 mild hepatomegaly with	2462
+3 in position with	2453
+3 with normal echogenicity	2415
+3 foetal head is	2409
+3 kidneys with normal	2408
+3 size with homogeneously	2404
+3 ovarian regions appear	2354
+3 appear to be	2350
+3 appears normal with	2330
+3 main pancreatic duct	2308
+3 biliary sludge is	2276
+3 calyceal systems of	2275
+3 sludge is seen	2263
+3 a well defined	2258
+3 which is within	2244
+3 thickness is within	2239
+3 echogenic structure or	2221
+3 of echogenic structure	2218
+3 evidence of echogenic	2217
+3 structure or biliary	2217
+3 or biliary sludge	2217
+3 and that of	2202
+3 that of portal	2187
+3 are within normal	2187
+3 length of left	2173
+3 urinary bladder appears	2149
+3 appears well filled	2125
+3 focal lesion is	2103
+3 mass within it	2074
+3 portal vein are	2045
+3 vein are within	2045
+3 regions appear to	2037
+3 no gestational sac	2017
+3 gestational sac or	2015
+3 no mass or	2010
+3 sac or any	2001
+3 or any product	1987
+3 any product of	1985
+3 within the gallbladder	1974
+3 no intravesical mass	1969
+3 intravesical mass lesion	1969
+3 calculus could be	1949
+3 position with normal	1942
+3 product of conception	1905
+3 largest one measures	1903
+3 mass or calculus	1897
+3 or calculus could	1897
+3 the central cavity	1811
+3 there are multiple	1795
+3 cavity is empty	1781
+3 structure is seen	1768
+3 the cavity is	1760
+3 ovary at present	1758
+3 bulky in size	1756
+3 increased parenchymal echogenicity	1749
+3 cavity echo is	1738
+3 central cavity echo	1737
+3 echo is normal	1736
+3 without any mass	1729
+3 focal or diffuse	1667
+3 or diffuse lesion	1666
+3 no abnormal cystic	1655
+3 multiple follicles in	1648
+3 are multiple follicles	1640
+3 abnormal cystic structure	1637
+3 cystic structure is	1637
+3 are seen in	1635
+3 homogeneously slightly bright	1622
+3 of the foetus	1614
+3 the foetus is	1614
+3 well filled with	1596
+3 appears to be	1583
+3 heart rate is	1582
+3 mass could be	1581
+3 foetal heart rate	1571
+3 uterine myometrium and	1565
+3 myometrium and endometrium	1565
+3 and endometrium is	1565
+3 at either ovary	1550
+3 is normal and	1542
+3 normal and the	1531
+3 and the cavity	1531
+3 either ovary at	1527
+3 with homogeneously slightly	1517
+3 slightly bright echopattern	1517
+3 in both ovaries	1503
+3 another larger one	1501
+3 normal study at	1471
+3 postvoidal period shows	1465
+3 follicles in both	1461
+3 in the right	1458
+3 by high frequency	1457
+3 high frequency probe	1457
+3 examined by high	1455
+3 maximum thickness is	1408
+3 in the left	1407
+3 days of pregnancy	1398
+3 no focal or	1391
+3 the largest one	1389
+3 with suggestive of	1384
+3 normal echopattern of	1379
+3 foetal movement is	1375
+3 of residual urine	1375
+3 is no evidence	1374
+3 normal with normal	1370
+3 uterus is bulky	1360
+3 no mass could	1354
+3 is mildly enlarged	1347
+3 amniotic fluid is	1343
+3 biliary channels are	1342
+3 channels are not	1342
+3 amount of amniotic	1341
+3 of amniotic fluid	1341
+3 parenchymal echogenicity with	1339
+3 the pancreas is	1335
+3 of urinary bladder	1334
+3 of the foetal	1334
+3 pancreas is normal	1332
+3 the gall bladder	1327
+3 visualisation of hepatic	1326
+3 infiltration of liver	1326
+3 ml of residual	1326
+3 fatty infiltration of	1325
+3 fluid collection in	1324
+3 size and echopattern	1324
+3 echogenicity with normal	1323
+3 with normal visualisation	1323
+3 normal visualisation of	1323
+3 diaphragm-which is compatible	1323
+3 is compatible with	1323
+3 compatible with mild	1323
+3 the foetal head	1323
+3 with mild fatty	1322
+3 mild fatty infiltration	1322
+3 biparietal diameter of	1321
+3 diameter of the	1321
+3 collection in the	1311
+3 hepatic portion of	1310
+3 placental grading is	1305
+3 larger one measures	1303
+3 length of the	1299
+3 filled with thickened	1296
+3 femoral length of	1290
+3 a case of	1289
+3 urinary bladder is	1275
+3 mm on left	1243
+3 hypoechoic focal nodular	1221
+3 both the ovaries	1220
+3 the ovaries are	1219
+3 is no gestational	1215
+3 of conception within	1206
+3 is mildly dilated	1198
+3 size and contour	1198
+3 and contour with	1198
+3 contour with smooth	1197
+3 normal in echopattern	1181
+3 regions appear normal	1179
+3 is enlarged in	1170
+3 there is a	1170
+3 biliary sludge or	1166
+3 size with homogeneous	1165
+3 gall bladder appears	1165
+3 bigger one measures	1155
+3 retro placental collection	1155
+3 on either side	1153
+3 area is seen	1152
+3 away from os	1143
+3 appears well dilated	1142
+3 of douglas is	1141
+3 douglas is clear	1141
+3 with smooth walls	1140
+3 are enlarged in	1139
+3 smooth walls of	1137
+3 the measurements correspond	1136
+3 measurements correspond to	1136
+3 cystic area is	1116
+3 ovaries are enlarged	1115
+3 sludge or calculus	1114
+3 is bulky in	1109
+3 of different sizes	1096
+3 within the uterus	1094
+3 conception within the	1093
+3 no mass lesion	1092
+3 case of about	1091
+3 no intra luminal	1081
+3 intra luminal biliary	1080
+3 luminal biliary sludge	1080
+3 bulky uterus with	1079
+3 is lying low	1073
+3 head is lying	1072
+3 lying low at	1068
+3 low at present	1068
+3 well defined cystic	1059
+3 cyst or soft	1045
+3 defined cystic area	1044
+3 side to side	1041
+3 or soft tissue	1039
+3 parametrium is clear	1026
+3 fluid index is	1026
+3 could not be	1023
+3 without any remarkable	1019
+3 mildly enlarged prostate	992
+3 rest of the	990
+3 bilateral enlarged ovaries	985
+3 movement is seen	985
+3 amniotic fluid index	981
+3 of thyroid gland	978
+3 regions are normal	978
+3 ovarian regions are	977
+3 remarkable cyst or	968
+3 testis measures about	954
+3 any remarkable cyst	947
+3 please correlate with	918
+3 enlarged lymph node	910
+3 pelvi-calyceal systems of	908
+3 enlarged lymph nodes	905
+3 fluid is within	905
+3 cm left kidney	902
+3 abdominal circumference is	898
+3 the liver is	896
+3 suggestive of cystitis	894
+3 bladder is normal	894
+3 with homogeneously bright	888
+3 homogeneously bright echopattern	888
+3 without any focal	883
+3 head is about	879
+3 foetus is about	877
+3 region appears normal	859
+3 cm long x	859
+3 cm in a	859
+3 any mass lesion	844
+3 focal or hypoechoic	841
+3 homogenous without any	838
+3 myometrium appears homogenous	822
+3 appears homogenous without	818
+3 both the measurements	812
+3 cervix is about	811
+3 defined hypoechoic focal	810
+3 with normal foetal	809
+3 with evidence of	808
+3 central and empty	806
+3 is central and	800
+3 conception could be	797
+3 uterine myometrium is	792
+3 of hepatic vessels	791
+3 could be seen	779
+3 cavity is central	777
+3 normal without any	776
+3 evidence of placental	775
+3 normal vascular flow	774
+3 myometrium is normal	773
+3 cervix is normal	771
+3 active foetal movement	762
+3 different sizes are	754
+3 of placental separation	753
+3 placental separation or	753
+3 separation or retro	753
+3 or retro placental	753
+3 is no fluid	747
+3 kidney is mildly	738
+3 liver is mildly	737
+3 with normal vascular	736
+3 in different parts	734
+3 vascular flow within	734
+3 cm in its	734
+3 normal in thickness	722
+3 the prostate is	720
+3 well defined hypoechoic	719
+3 sizes are seen	717
+3 suggestive of mild	715
+3 normal in position	708
+3 p diameter without	706
+3 diameter without any	706
+3 thyroid gland is	704
+3 different parts of	704
+3 thickness of urinary	698
+3 parenchyma appears homogenous	698
+3 wall thickness of	697
+3 suggestive of bilateral	695
+3 to be atrophied	694
+3 no mid line	685
+3 mid line shift	685
+3 line shift is	685
+3 shift is seen	685
+3 volume measures about	684
+3 cerebral hemispheres are	684
+3 its dilated part	683
+3 hemispheres are normal	682
+3 be ruled out	681
+3 focal nodular lesions	681
+3 any focal or	680
+3 of umbilical cord	680
+3 not be ruled	678
+3 in size but	678
+3 both cerebral hemispheres	678
+3 within its dilated	673
+3 be normal without	669
+3 both adnexal regions	668
+3 adnexal regions appear	668
+3 multiple hypoechoic focal	666
+3 appears homogenous in	657
+3 diffuse lesion at	650
+3 irregular in appearance	649
+3 small amount of	648
+3 hypoechoic focal lesion	645
+3 pap's smear for	638
+3 evidence of spinal	638
+3 normal with no	637
+3 with no evidence	637
+3 of spinal defect	637
+3 within the foetal	637
+3 cm and normal	635
+3 foetal abdomen appears	635
+3 abdomen appears normal	635
+3 with normal insertion	635
+3 normal insertion of	635
+3 insertion of umbilical	635
+3 lobe of thyroid	633
+3 but irregular in	633
+3 spine appears normal	633
+3 size but irregular	632
+3 four cardiac chambers	632
+3 cardiac chambers are	632
+3 chambers are seen	632
+3 are seen with	632
+3 seen with intact	632
+3 homogenous in echopattern	631
+3 the foetal abdomen	631
+3 seen within its	629
+3 foetal kidneys are	629
+3 no pelvicalyceal dilatation	629
+3 tiny faint echogenic	629
+3 of conception could	624
+3 right ovary is	623
+3 size with no	622
+3 with no pelvicalyceal	622
+3 placenta is posterior	620
+3 small cystic area	619
+3 focal nodular lesion	617
+3 left ovary is	611
+3 in the mid	601
+3 placenta is anterior	597
+3 in the lower	595
+3 in the upper	593
+3 multiple enlarged lymph	589
+3 suggestive of cervicitis	585
+3 grading is i	584
+3 nodular lesion is	581
+3 heart movement is	580
+3 uterus is gravid	577
+3 foetal heart movement	572
+3 outer aspect of	570
+3 uterus with suggestive	570
+3 suggestive of tiny	569
+3 lesions are seen	568
+3 movement is present	566
+3 correspond to about	566
+3 suggesting enlarged lymph	561
+3 suggesting multiple enlarged	560
+3 limit of normal	558
+3 normal foetal well	558
+3 with peripheral distribution	556
+3 nipple is not	556
+3 is not retracted	556
+3 at either cerebral	555
+3 ventricles are not	553
+3 upper limit of	546
+3 is present and	546
+3 is a small	546
+3 present and regular	545
+3 pelvicalyceal systems of	545
+3 nodular lesions are	545
+3 within the tunica	543
+3 the tunica vaginalis	540
+3 tunica vaginalis of	537
+3 is not present	535
+3 vascular dilation is	534
+3 dilation is not	534
+3 of pelvis is	533
+3 intra hepatic portion	532
+3 the spleen is	531
+3 fluid within the	527
+3 of fluid within	526
+3 spleen is normal	523
+3 in size from	522
+3 ovary is enlarged	522
+3 breast appears to	521
+3 size from side	519
+3 from side to	519
+3 prostate is normal	514
+3 enlarged ovaries with	513
+3 of normal size	513
+3 lesion at either	512
+3 days of single	512
+3 seen in different	509
+3 kidneys are not	509
+3 of fluid collection	507
+3 be due to	507
+3 with intact septa	506
+3 not present in	505
+3 present in hilar	505
+3 in hilar region	505
+3 adnexal region appears	501
+3 both ovaries with	500
+3 significant abnormality is	500
+3 ovaries with peripheral	499
+3 of right breast	499
+3 of left breast	499
+3 either cerebral hemisphere	499
+3 at left kidney	495
+3 both adnexal region	495
+3 however no stone	493
+3 no significant abnormality	491
+3 the left ovary	487
+3 faint echogenic structure	486
+3 ovarian region appears	484
+3 casting no acoustic	484
+3 movement is normal	481
+3 left testis measures	479
+3 the right ovary	478
+3 right lobe of	477
+3 right testis measures	476
+3 on left side	475
+3 tubo ovarian region	474
+3 is no abnormal	473
+3 no abnormal collection	473
+3 abnormal collection of	473
+3 amount of fluid	472
+3 bright echogenic structure	470
+3 focal lesion in	470
+3 for the post	469
+3 normal for the	468
+3 the post menopausal	468
+3 post menopausal age	468
+3 pregnancy with cephalic	468
+3 lesion could be	468
+3 diameter of pelvis	467
+3 mm on right	466
+3 the surface margin	464
+3 cystic area with	464
+3 dilatation at left	464
+3 shows increased parenchymal	462
+3 abnormality is seen	460
+3 there is small	458
+3 is small amount	456
+3 is noted in	455
+3 beyond the surface	454
+3 lesions of different	454
+3 anomaly is seen	454
+3 focal or any	451
+3 or any diffuse	451
+3 any diffuse lesion	451
+3 diffuse lesion could	451
+3 normal findings at	448
+3 uterus measures about	443
+3 area in the	439
+3 part of right	438
+3 ve cardiac activity	437
+3 with normal echotexture	436
+3 normal echotexture of	436
+3 echotexture of myometrium	436
+3 both testes are	436
+3 vein is within	435
+3 smaller in size	432
+3 fatty change in	431
+3 with multiple follicles	430
+3 diameter of portal	430
+3 in the liver	430
+3 on right side	429
+3 ovaries with multiple	428
+3 adequate at present	427
+3 mixed echogenic focal	427
+3 isthmus of thyroid	426
+3 correlate with hormonal	426
+3 pelvicalyceal system of	426
+3 cm and left	426
+3 visible parenchymal echotexture	425
+3 and left kidney	425
+3 in all quadrants	425
+3 homogenous in all	422
+3 with hormonal study	419
+3 focal lesion with	419
+3 gland is normal	416
+3 part of left	416
+3 mid part of	415
+3 extended beyond the	414
+3 a tiny faint	413
+3 in the antero	412
+3 testes are normal	412
+3 ovary is normal	411
+3 in right ovary	410
+3 in comparison to	407
+3 at right kidney	406
+3 right axillary region	405
+3 in size without	405
+3 of pregnancy with	405
+3 cm in the	404
+3 cardiac pulsation is	403
+3 no retro placental	403
+3 placental collection is	403
+3 seen in right	403
+3 in left ovary	403
+3 either hemi scrotum	399
+3 testis is normal	398
+3 left axillary region	396
+3 bright echogenic structures	395
+3 organised biliary sludge	395
+3 size without any	394
+3 suggestive of multiple	394
+3 dilatation at right	391
+3 umbilical cord is	391
+3 vaginalis of either	390
+3 with central echogenic	389
+3 of either hemi	389
+3 renal cortical cyst	387
+3 pregnancy with normal	382
+3 correlate with lab	380
+3 appears normal in	379
+3 left testis is	378
+3 yolk sac is	376
+3 lesion with central	373
+3 foetal weight is	372
+3 weight is approximately	372
+3 right testis is	372
+3 calyces are not	371
+3 structures of different	371
+3 having single foetus	371
+3 foetal well being	371
+3 may be due	370
+3 of the uterus	370
+3 be detected by	369
+3 however calyces are	368
+3 cystic structures of	368
+3 spleno-portal venous is	366
+3 venous is not	366
+3 slightly increased parenchymal	365
+3 single foetus with	364
+3 cardiac activity and	362
+3 anterior wall of	361
+3 presentation at present	361
+3 central echogenic matrix	360
+3 abdominal circumference of	359
+3 circumference of the	359
+3 visible foetal movement	359
+3 calculated foetal weight	355
+3 a small cystic	354
+3 lower part of	354
+3 thick organised biliary	354
+3 dilated pelvis of	353
+3 of the hepatic	352
+4 normal in size with	16353
+4 there is no stone	14061
+4 is no stone or	14047
+4 duct is not dilated	14033
+4 in size with normal	13721
+4 are normal in size	11662
+4 kidneys are normal in	10975
+4 both kidneys are normal	10341
+4 is normal in size	10235
+4 with well defined cortex	10231
+4 is seen within the	9698
+4 filled and normal in	9681
+4 well filled and normal	9642
+4 normal in size and	8966
+4 collection of fluid is	8329
+4 of fluid is seen	8329
+4 no collection of fluid	8325
+4 no stone or any	8045
+4 stone or any soft	8043
+4 or any soft tissue	8041
+4 any soft tissue mass	8037
+4 pancreatic duct is not	8019
+4 soft tissue mass within	7720
+4 is seen at either	7346
+4 is seen in the	6889
+4 stone is seen within	6801
+4 right kidney measures about	6740
+4 left kidney measures about	6737
+4 no stone is seen	6719
+4 and normal in contour	6667
+4 in size and shape	6620
+4 and shape with well	6385
+4 shape with well defined	6380
+4 is within normal limit	6374
+4 ascitic fluid is seen	6373
+4 size and shape with	6366
+4 or pelvicalyceal dilatation at	6325
+4 stone or pelvicalyceal dilatation	6313
+4 no stone or pelvicalyceal	6312
+4 no ascitic fluid is	6290
+4 within the lumen of	6283
+4 seen within the lumen	6254
+4 size with normal echopattern	6231
+4 there is no focal	6115
+4 or calculus is seen	6092
+4 within the hepatic parenchyma	6043
+4 and uniform in echotexture	6021
+4 wall thickness is normal	5963
+4 inner wall thickness is	5962
+4 intra hepatic biliary trees	5956
+4 hepatic biliary trees are	5921
+4 common bile duct is	5916
+4 biliary trees are not	5905
+4 vein is not dilated	5883
+4 seen at either side	5728
+4 from pole to pole	5727
+4 at either side of	5721
+4 side of pleural space	5711
+4 fluid is seen at	5705
+4 either side of pleural	5698
+4 trees are not dilated	5693
+4 within the urinary bladder	5677
+4 focal lesion within the	5667
+4 lesion within the hepatic	5665
+4 portal vein is not	5663
+4 fluid is seen either	5654
+4 is seen either at	5654
+4 seen either at upper	5653
+4 either at upper or	5652
+4 at upper or lower	5652
+4 upper or lower abdomen	5652
+4 tissue mass within the	5650
+4 mass within the urinary	5650
+4 bile duct is not	5610
+4 is no focal lesion	5591
+4 no focal lesion within	5587
+4 pelvicalyceal dilatation at either	5474
+4 dilatation at either kidney	5471
+4 thickness of it's wall	5240
+4 normal thickness of it's	5226
+4 with normal thickness of	5198
+4 no stone within it	4978
+4 containing no stone within	4931
+4 right ovary measures about	4852
+4 mildly enlarged in size	4766
+4 size with normal thickness	4687
+4 fatty change of liver	4078
+4 in the pouch of	3890
+4 the pouch of douglas	3872
+4 defined cortex and medulla	3867
+4 well defined cortex and	3843
+4 left ovary measures about	3741
+4 systems of both kidneys	3685
+4 position with well defined	3482
+4 is seen on either	3468
+4 shape and position with	3333
+4 and position with well	3326
+4 calculus is seen on	3324
+4 both tubo ovarian regions	3306
+4 system is not dilated	3268
+4 of right kidney is	3210
+4 of both kidneys appear	3160
+4 both kidneys appear normal	3158
+4 mass lesion or calculus	3059
+4 collection is seen in	3026
+4 fluid collection is seen	3020
+4 demonstrable intravesical lesion is	3014
+4 intravesical lesion is seen	3014
+4 and normal in outline	3013
+4 no wall thickening seen	3012
+4 lesion or calculus is	3004
+4 uterus is normal in	3000
+4 no demonstrable intravesical lesion	2996
+4 and anteverted in position	2966
+4 spleno-portal venous system is	2957
+4 venous system is not	2957
+4 liver is normal in	2874
+4 no fluid collection is	2864
+4 size with normal parenchymal	2774
+4 with normal parenchymal echopattern	2774
+4 hepatomegaly with fatty change	2695
+4 of left kidney is	2660
+4 echotexture of the uterine	2657
+4 of the uterine myometrium	2657
+4 enlarged in size with	2656
+4 seen in the pouch	2653
+4 length of right kidney	2652
+4 bipolar length of right	2650
+4 echotexture of pancreas is	2644
+4 parenchymal echotexture of pancreas	2639
+4 of pancreas is homogeneous	2639
+4 intra hepatic biliary radicals	2628
+4 hepatic biliary radicals and	2628
+4 biliary radicals and common	2628
+4 radicals and common ducts	2628
+4 and common ducts are	2628
+4 common ducts are not	2628
+4 in both kidneys with	2626
+4 in mid hepatic plane	2567
+4 normal in both kidneys	2562
+4 is normal in both	2561
+4 differentiation is normal in	2555
+4 cortico-medullary differentiation is normal	2552
+4 both kidneys with normal	2408
+4 kidneys with normal echogenicity	2407
+4 in size with homogeneously	2404
+4 mild hepatomegaly with fatty	2373
+4 with fatty change of	2373
+4 appear to be normal	2348
+4 tubo ovarian regions appear	2344
+4 main pancreatic duct is	2289
+4 calyceal systems of both	2273
+4 biliary sludge is seen	2260
+4 which is within normal	2243
+4 thickness is within normal	2239
+4 no evidence of echogenic	2217
+4 evidence of echogenic structure	2217
+4 of echogenic structure or	2217
+4 echogenic structure or biliary	2217
+4 structure or biliary sludge	2217
+4 or biliary sludge is	2217
+4 wall thickness is within	2207
+4 ducts are not dilated	2188
+4 and that of portal	2187
+4 that of portal vein	2187
+4 are within normal limit	2187
+4 bipolar length of left	2173
+4 length of left kidney	2173
+4 anteverted in position with	2148
+4 the urinary bladder appears	2144
+4 urinary bladder appears well	2126
+4 bladder appears well filled	2125
+4 tissue mass within it	2072
+4 of portal vein are	2045
+4 portal vein are within	2045
+4 vein are within normal	2045
+4 focal lesion is seen	2038
+4 regions appear to be	2037
+4 no gestational sac or	2000
+4 gestational sac or any	1999
+4 sludge is seen within	1987
+4 sac or any product	1984
+4 or any product of	1980
+4 no intravesical mass lesion	1969
+4 intravesical mass lesion or	1968
+4 seen within the gallbladder	1954
+4 calculus could be detected	1947
+4 in position with normal	1924
+4 mass or calculus could	1897
+4 or calculus could be	1897
+4 no mass or calculus	1883
+4 lesion is seen in	1866
+4 any product of conception	1808
+4 largest one measures about	1798
+4 no focal lesion is	1781
+4 the cavity is empty	1759
+4 central cavity echo is	1737
+4 cavity echo is normal	1736
+4 the central cavity echo	1718
+4 focal or diffuse lesion	1666
+4 there are multiple follicles	1640
+4 are multiple follicles in	1640
+4 cystic structure is seen	1637
+4 abnormal cystic structure is	1636
+4 no abnormal cystic structure	1634
+4 structure is seen at	1632
+4 of the foetus is	1614
+4 mass could be detected	1581
+4 foetal heart rate is	1571
+4 the uterine myometrium and	1565
+4 uterine myometrium and endometrium	1565
+4 myometrium and endometrium is	1565
+4 and endometrium is normal	1565
+4 seen at either ovary	1550
+4 echo is normal and	1536
+4 is normal and the	1531
+4 normal and the cavity	1529
+4 and the cavity is	1529
+4 at either ovary at	1527
+4 either ovary at present	1527
+4 size with homogeneously slightly	1516
+4 with homogeneously slightly bright	1515
+4 homogeneously slightly bright echopattern	1514
+4 position with normal echopattern	1498
+4 follicles in both ovaries	1461
+4 by high frequency probe	1457
+4 examined by high frequency	1455
+4 is no evidence of	1374
+4 with normal echopattern of	1372
+4 there is no evidence	1370
+4 ovarian regions appear to	1369
+4 appears normal with normal	1369
+4 no mass could be	1354
+4 multiple follicles in both	1342
+4 biliary channels are not	1342
+4 channels are not dilated	1342
+4 the largest one measures	1341
+4 amount of amniotic fluid	1341
+4 of amniotic fluid is	1341
+4 the pancreas is normal	1332
+4 pancreas is normal in	1332
+4 increased parenchymal echogenicity with	1327
+4 ml of residual urine	1326
+4 fatty infiltration of liver	1325
+4 in size and echopattern	1324
+4 parenchymal echogenicity with normal	1323
+4 echogenicity with normal visualisation	1323
+4 with normal visualisation of	1323
+4 diaphragm-which is compatible with	1323
+4 is compatible with mild	1323
+4 of the foetal head	1323
+4 the foetal head is	1323
+4 normal visualisation of hepatic	1322
+4 compatible with mild fatty	1322
+4 with mild fatty infiltration	1322
+4 mild fatty infiltration of	1321
+4 biparietal diameter of the	1321
+4 diameter of the foetal	1321
+4 fluid collection in the	1308
+4 well filled with thickened	1290
+4 femoral length of the	1290
+4 length of the foetus	1250
+4 collection in the pouch	1237
+4 both the ovaries are	1219
+4 is mildly enlarged in	1215
+4 is no gestational sac	1215
+4 another larger one measures	1215
+4 there is no gestational	1208
+4 product of conception within	1202
+4 in size and contour	1198
+4 size and contour with	1197
+4 and contour with smooth	1197
+4 in size with homogeneous	1163
+4 is enlarged in size	1161
+4 seen on either side	1153
+4 the gall bladder appears	1143
+4 gall bladder appears well	1142
+4 bladder appears well dilated	1142
+4 of douglas is clear	1141
+4 pouch of douglas is	1140
+4 contour with smooth walls	1139
+4 with smooth walls of	1137
+4 the measurements correspond to	1136
+4 larger one measures about	1134
+4 are enlarged in size	1133
+4 ovaries are enlarged in	1114
+4 biliary sludge or calculus	1114
+4 sludge or calculus is	1114
+4 uterus is bulky in	1109
+4 is bulky in size	1107
+4 size with homogeneous echopattern	1092
+4 a case of about	1091
+4 the ovaries are enlarged	1090
+4 of conception within the	1090
+4 conception within the uterus	1088
+4 no intra luminal biliary	1080
+4 intra luminal biliary sludge	1080
+4 luminal biliary sludge or	1074
+4 foetal head is lying	1071
+4 lying low at present	1068
+4 cystic area is seen	1067
+4 is lying low at	1064
+4 no mass lesion or	1037
+4 or soft tissue mass	1037
+4 well defined cystic area	1036
+4 a well defined cystic	1035
+4 cyst or soft tissue	1022
+4 ovarian regions appear normal	985
+4 no focal or diffuse	981
+4 amniotic fluid index is	980
+4 ovarian regions are normal	977
+4 seen in the left	973
+4 tubo ovarian regions are	965
+4 remarkable cyst or soft	960
+4 area is seen in	953
+4 seen in the right	950
+4 any remarkable cyst or	939
+4 without any remarkable cyst	934
+4 amniotic fluid is within	905
+4 cm left kidney measures	902
+4 fluid is within normal	896
+4 pelvi-calyceal systems of both	896
+4 size with homogeneously bright	888
+4 with homogeneously bright echopattern	887
+4 foetal head is about	879
+4 the foetus is about	877
+4 without any mass lesion	839
+4 homogenous without any mass	838
+4 head is lying low	836
+4 foetal movement is seen	831
+4 myometrium appears homogenous without	818
+4 appears homogenous without any	818
+4 both the measurements correspond	812
+4 is central and empty	800
+4 conception could be detected	795
+4 visualisation of hepatic vessels	791
+4 the uterine myometrium is	790
+4 cavity is central and	777
+4 no evidence of placental	775
+4 uterine myometrium is normal	771
+4 evidence of placental separation	753
+4 of placental separation or	753
+4 placental separation or retro	753
+4 separation or retro placental	753
+4 or retro placental collection	752
+4 of different sizes are	750
+4 is no fluid collection	747
+4 no fluid collection in	746
+4 of both kidneys are	745
+4 there is no fluid	745
+4 endometrium is normal in	744
+4 liver is mildly enlarged	737
+4 active foetal movement is	737
+4 with normal vascular flow	736
+4 normal with normal vascular	734
+4 normal vascular flow within	734
+4 are seen in the	731
+4 the liver is normal	722
+4 is normal in thickness	721
+4 of urinary bladder is	715
+4 different sizes are seen	714
+4 kidney is mildly dilated	709
+4 p diameter without any	706
+4 diameter without any mass	706
+4 urinary bladder is normal	701
+4 inner wall thickness of	696
+4 wall thickness of urinary	696
+4 thickness of urinary bladder	695
+4 well defined hypoechoic focal	693
+4 appears to be atrophied	693
+4 no mid line shift	685
+4 mid line shift is	685
+4 line shift is seen	685
+4 a well defined hypoechoic	684
+4 cerebral hemispheres are normal	682
+4 hemispheres are normal in	682
+4 without any focal or	680
+4 any focal or diffuse	680
+4 both cerebral hemispheres are	678
+4 not be ruled out	675
+4 normal without any remarkable	673
+4 in different parts of	670
+4 to be normal without	669
+4 be normal without any	669
+4 normal in size but	668
+4 both adnexal regions appear	668
+4 adnexal regions appear to	668
+4 cervix is normal in	666
+4 within its dilated part	662
+4 parenchyma appears homogenous in	657
+4 could not be ruled	655
+4 is no focal or	654
+4 or diffuse lesion at	648
+4 normal with no evidence	637
+4 with no evidence of	637
+4 no evidence of spinal	637
+4 evidence of spinal defect	637
+4 foetal abdomen appears normal	635
+4 abdomen appears normal with	635
+4 normal with normal insertion	635
+4 with normal insertion of	635
+4 normal insertion of umbilical	635
+4 fluid is seen within	635
+4 but irregular in appearance	633
+4 spine appears normal with	633
+4 appears normal with no	633
+4 in size but irregular	632
+4 size but irregular in	632
+4 four cardiac chambers are	632
+4 cardiac chambers are seen	632
+4 chambers are seen with	632
+4 are seen with intact	632
+4 appears homogenous in echopattern	631
+4 insertion of umbilical cord	631
+4 seen within the foetal	631
+4 within the foetal abdomen	631
+4 foetal kidneys are normal	628
+4 lobe of thyroid gland	625
+4 of conception could be	623
+4 in size with no	622
+4 size with no pelvicalyceal	622
+4 with no pelvicalyceal dilatation	622
+4 of thyroid gland is	621
+4 product of conception could	620
+4 seen within its dilated	618
+4 is seen within its	617
+4 bigger one measures about	613
+4 multiple hypoechoic focal nodular	609
+4 and normal in echopattern	607
+4 hypoechoic focal nodular lesions	601
+4 cm and normal in	593
+4 multiple enlarged lymph nodes	582
+4 placental grading is i	576
+4 foetal heart movement is	572
+4 seen in the mid	570
+4 uterus with suggestive of	569
+4 lesions are seen in	564
+4 focal nodular lesion is	564
+4 heart movement is present	563
+4 nipple is not retracted	556
+4 are normal in echopattern	556
+4 measurements correspond to about	556
+4 nodular lesion is seen	556
+4 ventricles are not dilated	551
+4 suggesting multiple enlarged lymph	549
+4 upper limit of normal	546
+4 movement is present and	546
+4 is present and regular	545
+4 focal nodular lesions are	545
+4 nodular lesions are seen	544
+4 bulky uterus with suggestive	541
+4 suggesting enlarged lymph node	541
+4 within the tunica vaginalis	540
+4 pelvicalyceal systems of both	537
+4 the tunica vaginalis of	537
+4 vascular dilation is not	534
+4 dilation is not present	534
+4 intra hepatic portion of	532
+4 there is a small	531
+4 hypoechoic focal nodular lesion	527
+4 collection of fluid within	526
+4 of fluid within the	526
+4 fluid within the tunica	526
+4 the spleen is normal	523
+4 spleen is normal in	523
+4 ovary is enlarged in	520
+4 enlarged in size from	519
+4 in size from side	519
+4 size from side to	519
+4 from side to side	519
+4 breast appears to be	519
+4 limit of normal size	513
+4 the prostate is normal	513
+4 bilateral enlarged ovaries with	512
+4 diffuse lesion at either	511
+4 both kidneys are not	508
+4 kidneys are not dilated	508
+4 sizes are seen in	507
+4 seen with intact septa	506
+4 is not present in	505
+4 not present in hilar	505
+4 present in hilar region	505
+4 with normal foetal well	503
+4 lesion at either cerebral	502
+4 both ovaries with peripheral	499
+4 at either cerebral hemisphere	499
+4 adnexal region appears normal	498
+4 prostate is normal in	496
+4 are seen in different	492
+4 both adnexal region appears	491
+4 no significant abnormality is	490
+4 foetal movement is normal	480
+4 in the left ovary	477
+4 left testis measures about	477
+4 right testis measures about	476
+4 in both ovaries with	475
+4 however no stone is	474
+4 there is no abnormal	473
+4 is no abnormal collection	473
+4 no abnormal collection of	473
+4 abnormal collection of fluid	473
+4 amount of fluid collection	472
+4 tubo ovarian region appears	469
+4 ovaries with peripheral distribution	468
+4 in the right ovary	468
+4 for the post menopausal	468
+4 of fluid collection in	467
+4 the post menopausal age	467
+4 pelvicalyceal dilatation at left	464
+4 dilatation at left kidney	464
+4 small amount of fluid	463
+4 shows increased parenchymal echogenicity	461
+4 seen in the lower	461
+4 there is small amount	456
+4 is small amount of	456
+4 defined cystic area is	455
+4 diameter of pelvis is	455
+4 lesion could be seen	455
+4 focal or any diffuse	451
+4 or any diffuse lesion	451
+4 any diffuse lesion could	451
+4 diffuse lesion could be	451
+4 beyond the surface margin	446
+4 seen in different parts	446
+4 normal for the post	444
+4 seen in the upper	441
+4 of portal vein is	439
+4 position with normal echotexture	436
+4 with normal echotexture of	436
+4 normal echotexture of myometrium	435
+4 vein is within normal	435
+4 portal vein is within	433
+4 enlarged ovaries with multiple	428
+4 diameter of portal vein	428
+4 lesions of different sizes	427
+4 ovaries with multiple follicles	427
+4 please correlate with hormonal	425
+4 visible parenchymal echotexture of	425
+4 cm and left kidney	425
+4 and left kidney is	424
+4 homogenous in all quadrants	422
+4 with suggestive of cervicitis	421
+4 correlate with hormonal study	418
+4 gland is normal in	412
+4 defined hypoechoic focal lesion	412
+4 both testes are normal	412
+4 extended beyond the surface	409
+4 retro placental collection is	403
+4 placental collection is seen	403
+4 no retro placental collection	401
+4 hypoechoic focal lesion with	398

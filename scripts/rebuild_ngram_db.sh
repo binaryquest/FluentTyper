@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-MAX_FILES=3
+MAX_FILES=1
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 OSCAR_CORUPS_VERSION="OSCAR-2301"
 LANGUAGE_DETECTION_PROB="0.925"
@@ -120,15 +120,15 @@ done
 echo "Waiting for download background jobs to complete"
 wait
 
+
 # Merge spellchecked files
 cat "${WORK_DIR}"/"${LANG}"_sentences_checked_*.txt > "${WORK_DIR}/${LANG}_sentences_checked.txt"
+cat "${SCRIPT_DIR}/usgreport.txt" > "${WORK_DIR}/${LANG}_sentences_checked.txt"
 rm -rf "${WORK_DIR}"/"${LANG}"_sentences_checked_*.txt 
-
-cp "${WORK_DIR}/${LANG}_sentences_checked.txt" "${SCRIPT_DIR}/${LANG}_sentences_checked.txt"
 
 # Generate ngrams 
 "${SCRIPT_DIR}"/gen_ngram.py -i "${WORK_DIR}/${LANG}_sentences_checked.txt" -l en
 # generate marisa-trie database from ngrams
 "${SCRIPT_DIR}"/ngramtxt2marisa.py --overwrite --output "${SCRIPT_DIR}"/../resources_js/"${LANG}"/ngrams_db/ --inputfile "${WORK_DIR}/${LANG}_sentences_checked_ngram_merged.txt"
 
-### git lfs prune
+git lfs prune

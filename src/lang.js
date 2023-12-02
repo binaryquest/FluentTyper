@@ -1,13 +1,6 @@
 const SUPPORTED_LANGUAGES = {
   auto_detect: "Auto detect",
   en: "English",
-  fr: "French",
-  hr: "Croatian",
-  es: "Spanish",
-  el: "Greek",
-  sv: "Swedish",
-  de: "German",
-  pl: "Polish",
   textExpander: "Text Expander",
 };
 
